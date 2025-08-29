@@ -1,5 +1,4 @@
 import React from "react";
-
 function JobCard({ job }) {
   return (
     <div className="job-card">
