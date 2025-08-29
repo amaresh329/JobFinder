@@ -18,6 +18,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "proxy": "https://api.adzuna.com",
   "eslintConfig": {
     "extends": [
       "react-app",
